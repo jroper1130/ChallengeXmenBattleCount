@@ -1,0 +1,7 @@
+C:\Users\warbe\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\warbe\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\warbe\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\warbe\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+C:\Users\warbe\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+C:\Users\warbe\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\warbe\source\repos\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
